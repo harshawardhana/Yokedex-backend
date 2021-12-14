@@ -1,2 +1,2 @@
 # Youkedex-backend
-Backend repo for Yokedex project
+Backend repo for Youkedex project
